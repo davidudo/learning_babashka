@@ -1,5 +1,12 @@
 # Babashka Babooka: Write Command-Line Clojure
 
+# Table of Contents
+- [Babashka Babooka: Write Command-Line Clojure](#babashka-babooka-write-command-line-clojure)
+- [Table of Contents](#table-of-contents)
+  - [Chapter 1: Getting Started](#chapter-1-getting-started)
+  - [Chapter 2: Working with Files](#chapter-2-working-with-files)
+  - [Chapter 3: Organising Your Project](#chapter-3-organising-your-project)
+
 ## Chapter 1: Getting Started
 In this chapter, the author introduces Babashka and its benefits for writing command-line applications in Clojure. The chapter covers the installation process and guides the reader through their first script using Babashka.
 
